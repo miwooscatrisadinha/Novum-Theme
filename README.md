@@ -14,3 +14,6 @@ https://przemec.github.io/Novum/theme.css
 
 (BetterDiscord)
 https://betterdiscord.app/theme/Novum
+
+# Previews
+![Picsart_24-12-14_02-09-12-405](https://github.com/user-attachments/assets/b0e1c50c-29ac-4558-b70b-4a5bc706730e)
