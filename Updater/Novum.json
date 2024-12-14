@@ -1,1 +1,31 @@
-
+{
+    "manifest": {
+        "author": "miwoomsmsmsm",
+        "name": "Novum",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/Novum-Theme\/refs\/heads\/main\/Background\/BACKGROUND.png",
+        "overlay_alpha": 45
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -3454904,
+        "background": 0,
+        "background_secondary": 652105293,
+        "input_background": -4699324,
+        "blocked_bg": -11329504,
+        "active_channel": -8902616
+    },
+    "colors": {
+        "primary_dark_300": -3115916,
+        "primary_dark_800": -10211794
+    },
+    "drawable_tints": {
+        "drawable_open_folder_dark": -5479838,
+        "ic_sidebar_pins_off_dark_24dp": -3115916,
+        "ic_sidebar_notifications_on_dark_24dp": -3115916,
+        "ic_sidebar_notifications_off_dark_24dp": -3115916
+    },
+    "raws": {}
+}
