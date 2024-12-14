@@ -11,5 +11,6 @@ https://github.com/przemec
 # Original Theme Links
 (Mediafire)
 https://www.mediafire.com/file/v2n7pvmko77aa4l/Novum.theme.css/file
+
 (BetterDiscord)
 https://betterdiscord.app/theme/Novum
