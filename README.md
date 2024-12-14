@@ -4,13 +4,13 @@ An theme inspired on the Novum Theme made for Better Discord, but now available 
 # Disclaimer!
 This theme is not originally made by me, all credits goes to (Przemec), I just recreated a version of the original theme for Aliucord.
 
-# Original Theme:
-https://przemec.github.io/Novum/theme.css
 # Original Author 
 https://github.com/przemec
+
 # Original Theme Links
-(Mediafire)
-https://www.mediafire.com/file/v2n7pvmko77aa4l/Novum.theme.css/file
+(przemec's GitHub)
+https://przemec.github.io/Novum/theme.css
+
 
 (BetterDiscord)
 https://betterdiscord.app/theme/Novum
