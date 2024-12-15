@@ -15,8 +15,8 @@
         "background": 0,
         "background_secondary": 652105293,
         "input_background": -4699324,
-        "blocked_bg": -11329504,
-        "active_channel": -8902616
+        "active_channel": -8902616,
+        "mention_highlight": -1976100069
     },
     "colors": {
         "primary_dark_300": -3115916,
