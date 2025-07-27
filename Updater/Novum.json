@@ -7,7 +7,7 @@
     },
     "background": {
         "url": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/Novum-Theme\/refs\/heads\/main\/Background\/BACKGROUND.png",
-        "overlay_alpha": 45
+        "overlay_alpha": 80
     },
     "fonts": {},
     "simple_colors": {
@@ -20,7 +20,8 @@
     },
     "colors": {
         "primary_dark_300": -3115916,
-        "primary_dark_800": -10211794
+        "primary_dark_800": -10211794,
+        "uikit_settings_item_text_color_light": -6602688
     },
     "drawable_tints": {
         "drawable_open_folder_dark": -5479838,
